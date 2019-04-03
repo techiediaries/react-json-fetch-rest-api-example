@@ -1,3 +1,9 @@
+# React Fetch JSON REST API Example
+
+In this tutorial we'll learn how to build a React application that consumes a third-party REST API using the fetch() API. We'll also use Bootstrap 4 to style the UI.
+
+[React Tutorial: Consume a JSON REST API with Fetch and Styling UI with Bootstrap 4](https://www.techiediaries.com/react-json-fetch-rest-api-bootstrap)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
